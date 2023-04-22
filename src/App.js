@@ -49,6 +49,7 @@ function App() {
   }
   return (
     <div>
+      <h1>tới cục cứt thịt chứ</h1>
       <h2>React js</h2>
       <h1>{x}</h1>
       <h1>{text}</h1>
