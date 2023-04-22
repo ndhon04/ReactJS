@@ -51,6 +51,8 @@ function App() {
     <div>
       <h1>tới cục cứt thịt chứ</h1>
     <h1>tới cục cứt thịt chứ2</h1>
+    <h1>tới cục cứt thịt chứ23</h1>
+    <h1>tới cục cứt thịt chứ45</h1>
       <h2>React js</h2>
       <h1>{x}</h1>
       <h1>{text}</h1>
